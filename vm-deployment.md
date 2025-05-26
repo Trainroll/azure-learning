@@ -33,7 +33,10 @@ To deploy a basic virtual machine (VM) in Microsoft Azure using the Azure Portal
   - Authentication type: Password
   - Username: `Learning2_3`
   - Password: YourSecuredevice1234!
-
+   ** Method 2 **
+    Using Poweshell CLI
+    -
+    
 ### 3. Configure Inbound Port Rules
 - Allow selected ports:
   - Check **SSH (22)**
